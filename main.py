@@ -8,3 +8,4 @@ for i in range(Longitud):
 
 contraseña = ''.join(Contraseña)
 print(f"La contraseña generada es: {contraseña}")
+x = input("Presione enter para salir...")
